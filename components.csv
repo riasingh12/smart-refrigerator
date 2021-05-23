@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"D1",1," LED RGB"
+"D3",1,"Red LED"
+"PIR1",1,"31.610301581960243 , -194.09257286156048 , -179.57963437464946  PIR Sensor"
+"U3",1," Temperature Sensor [TMP36]"
+"R2, R3, R4, R5",4,"1 kΩ Resistor"
+"U2",1," LCD 16 x 2 "
+"Rpot1",1,"250 kΩ Potentiometer"
+"R1",1,"220 kΩ Resistor"
+"M1",1," DC Motor"
+"R6, R7, R10, R11",4," Force Sensor"
+"R12, R14, R15, R16",4,"100 kΩ Resistor"
